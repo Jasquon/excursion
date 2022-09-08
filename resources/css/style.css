@@ -1,4 +1,5 @@
 html {
+    color: white;
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
@@ -13,3 +14,12 @@ a {
     color: aquamarine;
 }
 
+.banner h1 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.banner h4 {
+    font-size: 21px;
+    color: gray;
+}
